@@ -1,15 +1,16 @@
 ## 💜 Olá, meu nome é <strong>Anderson Vanzo!</strong>
 
+🔭 Desenvolvedor Web e Mobile na D3T Softwares Personalizados
+
+📫 Entre em contato pelo e-mail: anderson.vanzo01@gmail.com
+
+
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=AndersonVanzo&theme=monokai&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15"
             alt="AndersonVanzo" />
     </a>
 </p>
-
-🔭 Desenvolvedor Web e Mobile na D3T Softwares Personalizados
-
-📫 Entre em contato pelo e-mail: anderson.vanzo01@gmail.com
 
 ----
 
