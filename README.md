@@ -34,10 +34,10 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/anderson-vanzo/)](www.linkedin.com/in/anderson-vanzo/)
-[![Twitter](https://img.shields.io/badge/Twitter-333333?logo=twitter&logoColor=white&logoColor=white&link=www.linkedin.com/in/anderson-vanzo/)](www.linkedin.com/in/anderson-vanzo/)
-[![Instagram](https://img.shields.io/badge/Instagram-333333?logo=instagram&logoColor=white&logoColor=white&link=www.linkedin.com/in/anderson-vanzo/)](www.linkedin.com/in/anderson-vanzo/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?logo=gmail&logoColor=white&link=mailto:anderson.vanzo01@gmail.com)](mailto:anderson.vanzo01@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=Linkedin&logoColor=ffffff&link=www.linkedin.com/in/anderson-vanzo/)](www.linkedin.com/in/anderson-vanzo/)
+[![Twitter](https://img.shields.io/badge/Twitter-333333?logo=twitter&logoColor=white&logoColor=ffffff&link=www.linkedin.com/in/anderson-vanzo/)](www.linkedin.com/in/anderson-vanzo/)
+[![Instagram](https://img.shields.io/badge/Instagram-333333?logo=instagram&logoColor=white&logoColor=ffffff&link=www.linkedin.com/in/anderson-vanzo/)](www.linkedin.com/in/anderson-vanzo/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?logo=gmail&logoColor=ffffff&link=mailto:anderson.vanzo01@gmail.com)](mailto:anderson.vanzo01@gmail.com)
 
 ---
 
