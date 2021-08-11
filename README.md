@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Anderson Vanzo!</strong>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=andersonvanzo&theme=onedark)](https://github.com/andersonvanzo/github-profile-trophy)
 
 🔭 Desenvolvedor Web e Mobile na D3T Softwares Personalizados
 
