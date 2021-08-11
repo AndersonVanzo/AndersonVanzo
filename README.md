@@ -16,14 +16,19 @@
 
 ## 🚀 Minhas Skills
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
 ![SASS](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
 ![VueJS](https://img.shields.io/badge/Vue.js-333333?&logo=vue.js&logoColor=007396)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=007396)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=007396)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask&logoColor=007396)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=007396)
 
 ---
 
