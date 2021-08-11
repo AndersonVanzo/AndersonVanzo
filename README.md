@@ -17,4 +17,4 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andersonvanzo&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andersonvanzo&count_private=true&show_icons=true)
