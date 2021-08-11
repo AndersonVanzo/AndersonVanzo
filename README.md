@@ -32,7 +32,7 @@
 
 ---
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Onde me encontrar </h3> 
 
 <p align="left">
     <a href="https://linkedin.com/in/anderson-vanzo" target="_blank">
