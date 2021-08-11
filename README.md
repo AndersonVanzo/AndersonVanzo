@@ -23,6 +23,11 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonvanzo&theme=dracula&hide_langs_below=1" />
+</a>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andersonvanzo&count_private=true&show_icons=true)
 
 ---
