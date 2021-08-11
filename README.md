@@ -16,19 +16,19 @@
 
 ## 🚀 Minhas Skills
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
-![SASS](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
-![VueJS](https://img.shields.io/badge/Vue.js-333333?&logo=vue.js&logoColor=007396)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=ffffff)
+![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery&logoColor=ffffff)
+![SASS](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass&logoColor=ffffff)
+![VueJS](https://img.shields.io/badge/Vue.js-333333?&logo=vue.js&logoColor=ffffff)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=ffffff)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=ffffff)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask&logoColor=ffffff)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=ffffff)
 
 ---
 
