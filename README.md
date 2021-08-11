@@ -34,7 +34,9 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin](https://img.shields.io/badge/-AndersonVanzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/anderson-vanzo/)](www.linkedin.com/in/anderson-vanzo/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/anderson-vanzo/)](www.linkedin.com/in/anderson-vanzo/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&logoColor=white&link=www.linkedin.com/in/anderson-vanzo/)](www.linkedin.com/in/anderson-vanzo/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&logoColor=white&link=www.linkedin.com/in/anderson-vanzo/)](www.linkedin.com/in/anderson-vanzo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&link=mailto:anderson.vanzo01@gmail.com)](mailto:anderson.vanzo01@gmail.com)
 [![GitHub AndersonVanzo]( https://img.shields.io/github/followers/AndersonVanzo?label=follow&style=social)](https://github.com/AndersonVanzo)
 
