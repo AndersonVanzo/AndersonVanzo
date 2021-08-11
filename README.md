@@ -37,7 +37,7 @@
 <p align="left">
     <a href="https://linkedin.com/in/anderson-vanzo" target="_blank">
         <img align="center"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/Linkedin-333333?logo=linkedin&logoColor=ffffff"
             alt="anderson-vanzo" />
     </a>
     <a href="https://twitter.com/knownt_" target="_blank">
