@@ -34,10 +34,28 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=Linkedin&logoColor=ffffff&link=www.linkedin.com/in/anderson-vanzo/)](www.linkedin.com/in/anderson-vanzo/)
-[![Twitter](https://img.shields.io/badge/Twitter-333333?logo=twitter&logoColor=ffffff&link=www.linkedin.com/in/anderson-vanzo/)](www.linkedin.com/in/anderson-vanzo/)
-[![Instagram](https://img.shields.io/badge/Instagram-333333?logo=instagram&logoColor=ffffff&link=www.linkedin.com/in/anderson-vanzo/)](www.linkedin.com/in/anderson-vanzo/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?logo=gmail&logoColor=ffffff&link=mailto:anderson.vanzo01@gmail.com)](mailto:anderson.vanzo01@gmail.com)
+<p align="left">
+    <a href="https://linkedin.com/in/anderson-vanzo" target="_blank">
+        <img align="center"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="anderson-vanzo" />
+    </a>
+    <a href="https://twitter.com/knownt_" target="_blank">
+        <img align="center"
+            src="https://img.shields.io/badge/Twitter-333333?logo=twitter&logoColor=ffffff"
+            alt="knownt_" />
+    </a>
+    <a href="https://instagram.com/knownt_" target="_blank">
+        <img align="center"
+            src="https://img.shields.io/badge/Instagram-333333?logo=instagram&logoColor=ffffff"
+            alt="knownt_" />
+    </a>
+    <a href="mailto:anderson.vanzo01@gmail.com" target="_blank">
+        <img align="center"
+            src="https://img.shields.io/badge/Gmail-333333?logo=gmail&logoColor=ffffff"
+            alt="e=-mail" />
+    </a>
+</p>
 
 ---
 
