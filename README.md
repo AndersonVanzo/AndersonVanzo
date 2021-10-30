@@ -40,11 +40,6 @@
             src="https://img.shields.io/badge/Linkedin-333333?logo=linkedin&logoColor=ffffff"
             alt="anderson-vanzo" />
     </a>
-    <a href="https://twitter.com/knownt_" target="_blank">
-        <img align="center"
-            src="https://img.shields.io/badge/Twitter-333333?logo=twitter&logoColor=ffffff"
-            alt="knownt_" />
-    </a>
     <a href="https://instagram.com/knownt_" target="_blank">
         <img align="center"
             src="https://img.shields.io/badge/Instagram-333333?logo=instagram&logoColor=ffffff"
