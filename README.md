@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Anderson Vanzo!</strong>
 
-🔭 Desenvolvedor Web e Mobile na D3T Softwares Personalizados
+🔭 Desenvolvedor Mobile na Amplimed
 
 📫 Entre em contato pelo e-mail: anderson.vanzo01@gmail.com
 
