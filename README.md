@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at [https://www.amplimed.com.br/](Amplimed)<br>👨‍💻 All of my projects are available at [https://knownt.dev/](knownt.dev)<br>📫 How to reach me anderson.vanzo01@gmail.com<br>⚡ Fun fact I love old trash horror movies
+🔭 I’m currently working at [Amplimed](https://www.amplimed.com.br/)<br>👨‍💻 All of my projects are available at [knownt.dev](https://knownt.dev/)<br>📫 How to reach me **anderson.vanzo01@gmail.com**<br>⚡ Fun fact **I love old trash horror movies**
 
 
 ## 🌐 Socials:
