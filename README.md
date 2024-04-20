@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working at **[Amplimed](https://www.amplimed.com.br/)**<br><br>📫 How to reach me **anderson.vanzo01@gmail.com**<br><br>⚡ Fun fact **I love old trash horror movies**
+🔭 I’m currently working at **[Dot Digital Group](https://dotgroup.com.br/)**<br><br>📫 How to reach me **anderson.vanzo01@gmail.com**<br><br>⚡ Fun fact **I love old trash horror movies**
 
 
 ## 🌐 Socials:
