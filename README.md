@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working at **[Gold Media Tech](https://goldmediatech.com/)**<br><br>📫 How to reach me **hello@vanzo.dev**<br><br>⚡ Fun fact **I love old trash horror movies**
+📫 How to reach me **hello@vanzo.dev**<br><br>⚡ Fun fact **I love old trash horror movies**
 
 
 ## 🌐 Socials:
