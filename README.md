@@ -2,3 +2,6 @@ Building high-performance apps with React Native and Expo for a living, and cool
 
 
 Reach out at **hello@vanzo.dev**
+
+
+♡ [@maiqueli-mingoti](https://github.com/maiqueli-mingoti)
